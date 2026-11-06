@@ -1,0 +1,33 @@
+# Dependencies
+node_modules/
+
+# Compiled output
+dist/
+
+# Test coverage
+coverage/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# IDE settings
+.idea/
+.vscode/
+
+# TypeScript build information
+*.tsbuildinfo
+
+# Generated reports
+reports/
